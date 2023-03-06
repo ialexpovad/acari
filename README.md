@@ -1,2 +1,2 @@
 # acari
-Implementation algorithms of cluster analysis for radionuclide identification.
+Algorithms of clustering analysis for identification of radionuclide.
